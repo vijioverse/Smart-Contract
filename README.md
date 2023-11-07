@@ -2,6 +2,15 @@
 Module 050 - A decentralized microfinance collaborate saving 
 Module 070
 Module 023
+Module 068 - CEO of a company, has hired you as an intern. To assess your proficiency in basic Solidity and mathematics, he has assigned you a task.
+
+Your task is to implement a smart contract that computes the greatest common divisor (GCD) of two unsigned integers. Given two positive integers a and b, the GCD of a and b is defined as the greatest positive integer that divides both a and b without leaving a remainder. Your solution must include a public function with the following signature:
+The smart contract must contain the following public funtion:
+
+ 
+
+function gcd(uint a, uint b) returns (uint): This function should take two unsigned integers as inputs and return the GCD of those two numbers as an unsigned integer output
+
 Module 016
 Module 072 - Gavin recently started a chocolate shop and has a bag to keep all of the chocolates, which he calls the "chocolate bag." He regularly imports chocolates from a chocolate factory and sells them to customers through his shop. However, Gavin has a poor memory and often forgets the count of chocolates in the chocolate bag. To solve this issue, he wants to use smart contracts to keep track of the number of chocolates.
 
